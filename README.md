@@ -162,3 +162,6 @@ hasil run
 
 ![image](https://user-images.githubusercontent.com/123872661/218000736-c9283861-1e5d-4c44-997e-b05c3f28ecef.png)
 
+## FLOWCHART
+
+![image](https://user-images.githubusercontent.com/123872661/218001230-b22877a9-fd05-4f2f-9c16-ad89f4437fe9.png)
